@@ -8,7 +8,7 @@ pillow==10.4.0
 scipy==1.14.0
 tqdm==4.66.4
 psutil==6.0.0
-omegaconf==2.3.0
+omegaconf==2.4.0
 # DO NOT BUMP gradio above 3.41.2 — this fork relies on the Gradio 3.x DOM
 # structure for JS/DOM injection (Asset Browser icons, accordion tabs, custom
 # header buttons). Gradio 4.x rewrites the event system and HTML output and
