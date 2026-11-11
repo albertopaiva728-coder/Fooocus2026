@@ -7,7 +7,7 @@ pyyaml==6.0.1
 pillow==10.4.0
 scipy==1.14.0
 tqdm==4.66.4
-psutil==6.0.0
+psutil==7.2.2
 omegaconf==2.3.0
 # DO NOT BUMP gradio above 3.41.2 — this fork relies on the Gradio 3.x DOM
 # structure for JS/DOM injection (Asset Browser icons, accordion tabs, custom
