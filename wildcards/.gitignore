@@ -1,8 +1,15 @@
 *.txt
 !animal.txt
+!appliance.txt
 !artist.txt
+!celeb_name.txt
 !color.txt
 !color_flower.txt
+!element_types.txt
 !extended-color.txt
 !flower.txt
 !nationality.txt
+!words.txt
+!cyberpunk/**
+!lovecraft/**
+!onebuttonprompt/**

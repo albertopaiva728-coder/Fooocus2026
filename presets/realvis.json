@@ -1,0 +1,52 @@
+{
+    "default_model": "RealVisXL_V5.0_fp16.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            false,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 4.5,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "painting, drawing, illustration, cartoon, anime, 3d render, cgi, airbrushed, plastic skin, deformed, bad anatomy, bad hands, extra fingers, text, watermark",
+    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Photograph",
+        "Fooocus Negative"
+    ],
+    "default_aspect_ratio": "896*1152",
+    "default_overwrite_step": -1,
+    "checkpoint_downloads": {
+        "RealVisXL_V5.0_fp16.safetensors": "https://huggingface.co/SG161222/RealVisXL_V5.0/resolve/main/RealVisXL_V5.0_fp16.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {},
+    "previous_default_models": []
+}
